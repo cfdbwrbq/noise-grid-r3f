@@ -6,4 +6,4 @@ yarn
 yarn dev
 ```
 
-![image](./public/r3f-shot.png)
+![image](./public/screenshot.png)
