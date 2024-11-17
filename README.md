@@ -7,6 +7,7 @@ yarn dev
 ```
 
 ![image](./public/screenshot.jpg)
+<video controls loop src='https://github.com/user-attachments/assets/3d004427-7d95-4021-82a9-0d6504d617bc'></video>
 
 
 ```
